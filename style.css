@@ -382,8 +382,9 @@ textarea {
 
   .socials {
     position: -webkit-sticky;
-    position: fixed;
-    top: 200px;
+    position: sticky;
+    margin-top: 210px;
+    top: 0;
     float: right;
     right: 0;
     gap: 0.2rem;
